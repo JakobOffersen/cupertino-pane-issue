@@ -1,4 +1,4 @@
-import { Pane } from "../pane";
+import { Pane } from "../Pane";
 
 export default function Home() {
   return (
